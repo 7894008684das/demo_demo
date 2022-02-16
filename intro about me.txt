@@ -1,0 +1,16 @@
+My name is Abhishek das from Odisha Balasore. I completed my graduation in 2020 with physics honours.
+Along with my graduation, I completed python, Data science, Build a Modern Computer from First Principles courses on Coursera.
+I got a certificate from Microsoft in the AI classroom series.
+I am doing an internship at Ineuron. The project name is Environmental sensors analysis.
+In this project, we work on live data from sensors like light, pressure, temperature, humidity, rain sensor.
+The main problem we face that we do not have pre-collected data for EDA and train the machine learning model and make an ai dashboard.
+That's why we collect data from a weather station. In this weather station dataset, we make a time series model.
+It was during this project that I discovered that I am a team player.
+I want to be who I am.
+I love to play video games, make youtube videos and learn new technology.
+
+
+
+
+263928.41
+3596690.14
